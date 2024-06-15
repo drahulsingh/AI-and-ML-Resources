@@ -75,13 +75,6 @@ For any inquiries or issues, please contact [drahulsingh](https://github.com/dra
 
 Feel free to contribute to this list by opening an issue or a pull request with your suggestions. Let's make this repository a comprehensive guide to AI and ML resources for developers worldwide!
 
-## About
-
-Explore a curated collection of top AI and ML resources, including tutorials, libraries, frameworks, tools, and communities to enhance your AI and ML programming journey. Whether you're a beginner or an experienced developer, discover essential resources to level up your AI and ML skills.
-
-[github.com/drahulsingh/Best-Python-Resources](https://github.com/drahulsingh/Best-Python-Resources)
-
-
 ## Tags
 
 ai, machine-learning, deep-learning, data-science, tensorflow, pytorch, scikit-learn, keras, nlp, neural-networks, big-data, artificial-intelligence, data-visualization, jupyter-notebook, kaggle, reinforcement-learning, computer-vision, tensorflow-extended, onnx, mxnet
