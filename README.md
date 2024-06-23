@@ -78,3 +78,5 @@ Feel free to contribute to this list by opening an issue or a pull request with 
 ## Tags
 
 ai, machine-learning, deep-learning, data-science, tensorflow, pytorch, scikit-learn, keras, nlp, neural-networks, big-data, artificial-intelligence, data-visualization, jupyter-notebook, kaggle, reinforcement-learning, computer-vision, tensorflow-extended, onnx, mxnet
+
+[Back to Top](#AI-and-ML-Resources)
